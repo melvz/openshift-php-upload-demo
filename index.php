@@ -1,7 +1,7 @@
 <?php require_once("includes/header.php") ?>
 <section class='container'>
           <hgroup>
-            	<h1>Force-Alchemy -- OpenShift File Upload Demonstration</h1>
+            	<h1> Force-Rendition -- superb  PHP and NODEJS platform </h1>
           </hgroup>
 
 		<form action="upload.php" method="post" enctype="multipart/form-data">
